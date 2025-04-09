@@ -10,9 +10,7 @@ This project explores and analyzes sales performance data from a retail supersto
 - 🎯 **Category & Sub-Category Profitability**
 - 💸 **Discount Impact on Profit**
 - 🌍 **Regional and Segment-wise Breakdown**
-- 👥 **Top Customers by Sales**
-- 📦 **Order Quantity & Shipping Trends**
-- 📊 Clean, interactive Power BI visuals with KPIs and slicers
+- 📦 **Shipping Trends**
 
 ---
 
@@ -31,15 +29,5 @@ Performed using **Pandas** in Python before importing into Power BI (optional �
 
 - **Power BI** – for dashboard creation and visualization
 - **Python (Pandas)** – for optional preprocessing
-
----
-
-## 📌 Key Business Insights
-
-- Discounts over 30% are strongly linked to negative profits.
-- Most transactions cluster in the low-sales, low-profit zone.
-- Certain high-discount categories consistently generate losses.
-- West and East regions have distinct performance patterns.
-- Specific sub-categories and customers drive high sales.
 
 ---
