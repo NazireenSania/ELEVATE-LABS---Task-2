@@ -1,4 +1,4 @@
-# 📊 Superstore Sales & Profit Analysis Dashboard
+# 📊 Superstore Sales Analysis Using Power BI
 
 This project explores and analyzes sales performance data from a retail superstore using **Power BI**. It focuses on uncovering insights into **profitability**, **discount strategy effectiveness**, **customer segments**, and **regional sales trends**. The dashboard enables better data-driven decision-making for business growth and operational efficiency.
 
